@@ -6,6 +6,8 @@
 <script data-ad-client="ca-pub-7614541669024341" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body>
+- name: Jekyll Action
+  uses: helaili/jekyll-action@1.0
 border="1"
 align="center"
 rules="rows"
